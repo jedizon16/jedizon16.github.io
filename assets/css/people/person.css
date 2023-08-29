@@ -1,0 +1,7 @@
+.person {
+    display:block;
+}
+
+.person:hover {
+    transform: scale(1.5);
+}

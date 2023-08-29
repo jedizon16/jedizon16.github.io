@@ -1,0 +1,21 @@
+.person__image {
+    background-position: center;
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.person__image-anna {
+    background-image: url('../../img/people/Anna.jpg');
+}
+
+.person__image-karen {
+    background-image: url('../../img/people/karen.jpg');
+}
+
+.person__image-julia {
+    background-image: url('../../img/people/julia.jpg');
+}
